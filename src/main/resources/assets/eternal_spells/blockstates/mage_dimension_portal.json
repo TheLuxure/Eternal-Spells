@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "eternal_spells:block/mage_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "eternal_spells:block/mage_dimension_portal_ns"
+    }
+  }
+}

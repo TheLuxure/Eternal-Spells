@@ -1,0 +1,8 @@
+{
+  "parent": "eternal_spells:custom/totem",
+  "textures": {
+    "all": "eternal_spells:blocks/oblisk",
+    "particle": "eternal_spells:blocks/oblisk",
+    "0": "eternal_spells:blocks/oblisk"
+  }
+}

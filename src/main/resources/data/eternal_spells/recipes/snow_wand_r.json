@@ -1,0 +1,24 @@
+{
+  "group": "eternal_spells",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:snowball"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "6": {
+      "item": "minecraft:ice"
+    }
+  },
+  "result": {
+    "item": "eternal_spells:snow_wand",
+    "count": 1
+  }
+}

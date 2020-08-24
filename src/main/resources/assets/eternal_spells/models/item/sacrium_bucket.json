@@ -1,0 +1,5 @@
+{
+  "parent": "forge:item/bucket_drip",
+  "loader": "forge:bucket",
+  "fluid": "eternal_spells:sacrium"
+}

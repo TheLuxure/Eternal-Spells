@@ -1,0 +1,64 @@
+{
+  "_fv": 10,
+  "_type": "loottable",
+  "definition": {
+    "type": "Block",
+    "pools": [
+      {
+        "minrolls": 1,
+        "maxrolls": 1,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Crystal"
+            },
+            "weight": 100
+          }
+        ]
+      },
+      {
+        "minrolls": 0,
+        "maxrolls": 1,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:SpellShaperEssence"
+            },
+            "weight": 25
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:SpellShaperEssence2"
+            },
+            "weight": 25
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:SpellShaperEssence3"
+            },
+            "weight": 25
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:SpellShaperEssence4"
+            },
+            "weight": 25
+          }
+        ]
+      }
+    ],
+    "name": "blocks/crytalore",
+    "namespace": "minecraft"
+  }
+}

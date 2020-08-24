@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "eternal_spells:blocks/stone",
+    "up": "eternal_spells:blocks/stone",
+    "north": "eternal_spells:blocks/stone",
+    "east": "eternal_spells:blocks/stone",
+    "south": "eternal_spells:blocks/stone",
+    "west": "eternal_spells:blocks/stone",
+    "particle": "eternal_spells:blocks/stone"
+  }
+}

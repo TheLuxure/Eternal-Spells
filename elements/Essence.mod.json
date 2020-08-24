@@ -1,0 +1,25 @@
+{
+  "_fv": 10,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:SpellShaperEssence"
+      },
+      {
+        "value": "CUSTOM:SpellShaperEssence2"
+      },
+      {
+        "value": "CUSTOM:SpellShaperEssence3"
+      },
+      {
+        "value": "CUSTOM:SpellShaperEssence4"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "essence",
+    "namespace": "forge"
+  }
+}

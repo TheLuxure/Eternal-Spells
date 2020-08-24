@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "eternal_spells:spell_shaper_essence",
+    "eternal_spells:spell_shaper_essence_2",
+    "eternal_spells:spell_shaper_essence_3",
+    "eternal_spells:spell_shaper_essence_4"
+  ]
+}

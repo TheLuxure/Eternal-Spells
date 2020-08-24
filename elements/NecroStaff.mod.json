@@ -1,0 +1,31 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "necrostaff",
+    "customModelName": "Normal",
+    "name": "Necro Staff",
+    "specialInfo": [
+      "A staff used by necromancers"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SpellShaper"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "NecroStaffRightClickedOnBlock"
+    }
+  }
+}

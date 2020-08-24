@@ -1,0 +1,39 @@
+{
+  "group": "eternal_spells",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "eternal_spells:magewood_planks"
+    },
+    "2": {
+      "item": "eternal_spells:magewood_planks"
+    },
+    "3": {
+      "item": "eternal_spells:magewood_planks"
+    },
+    "4": {
+      "item": "eternal_spells:magewood_planks"
+    },
+    "5": {
+      "item": "eternal_spells:magewood_planks"
+    },
+    "6": {
+      "item": "eternal_spells:magewood_planks"
+    },
+    "7": {
+      "item": "eternal_spells:magewood_planks"
+    },
+    "8": {
+      "item": "eternal_spells:magewood_planks"
+    }
+  },
+  "result": {
+    "item": "eternal_spells:mage_armor_chestplate",
+    "count": 1
+  }
+}

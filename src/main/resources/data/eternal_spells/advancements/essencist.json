@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "eternal_spells:essential_tome"
+    },
+    "title": {
+      "translate": "advancements.essencist.title"
+    },
+    "description": {
+      "translate": "advancements.essencist.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "essencist": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "eternal_spells:essential_tome",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "eternal_spells:spell_shaping_hmmmm"
+}

@@ -1,0 +1,42 @@
+{
+  "_fv": 10,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "snowstaff",
+    "customModelName": "Normal",
+    "name": "Snow Wand",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SpellShaper"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Items.SNOWBALL"
+    },
+    "shootConstantly": false,
+    "usageCount": 500,
+    "actionSound": {
+      "value": "entity.snowball.throw"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 1.0,
+    "bulletKnockback": 10,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Items.SNOWBALL"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "SnowWandBulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "SnowWandBulletHitsLivingEntity"
+    }
+  }
+}

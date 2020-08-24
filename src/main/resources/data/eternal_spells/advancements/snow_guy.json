@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "eternal_spells:snow_wand"
+    },
+    "title": {
+      "translate": "advancements.snow_guy.title"
+    },
+    "description": {
+      "translate": "advancements.snow_guy.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "snow_guy": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "eternal_spells:snow_wand",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "eternal_spells:what_is_this_strange_power"
+}

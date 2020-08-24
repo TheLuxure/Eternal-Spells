@@ -1,0 +1,27 @@
+{
+  "group": "eternal_spells",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "eternal_spells:magewood_planks"
+    },
+    "1": {
+      "item": "eternal_spells:magewood_planks"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "eternal_spells:mage_hoe",
+    "count": 1
+  }
+}

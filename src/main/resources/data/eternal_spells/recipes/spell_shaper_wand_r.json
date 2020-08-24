@@ -1,0 +1,24 @@
+{
+  "group": "eternal_spells",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "eternal_spells:crystal"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "6": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "eternal_spells:spell_shaper_wand",
+    "count": 1
+  }
+}

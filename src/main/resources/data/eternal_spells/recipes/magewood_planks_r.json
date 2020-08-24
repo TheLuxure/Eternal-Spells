@@ -1,0 +1,16 @@
+{
+  "group": "eternal_spells",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "eternal_spells:magewood"
+    }
+  },
+  "result": {
+    "item": "eternal_spells:magewood_planks",
+    "count": 4
+  }
+}

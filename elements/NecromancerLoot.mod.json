@@ -1,0 +1,48 @@
+{
+  "_fv": 10,
+  "_type": "loottable",
+  "definition": {
+    "type": "Entity",
+    "pools": [
+      {
+        "minrolls": 1,
+        "maxrolls": 31,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.BONE"
+            },
+            "weight": 50
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.DYE#15"
+            },
+            "weight": 45
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Blocks.BONE_BLOCK"
+            },
+            "weight": 4
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:NecroStaff"
+            },
+            "weight": 1
+          }
+        ]
+      }
+    ],
+    "name": "entities/necromancer",
+    "namespace": "mod"
+  }
+}

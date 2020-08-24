@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eternal_spells:block/magewood"
+    },
+    "facing=east": {
+      "model": "eternal_spells:block/magewood",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "eternal_spells:block/magewood",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "eternal_spells:block/magewood",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "eternal_spells:block/magewood",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "eternal_spells:block/magewood",
+      "x": 90
+    }
+  }
+}

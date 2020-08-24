@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "eternal_spells:blocks/spellshapingtable",
+    "up": "eternal_spells:blocks/spellshapingtable",
+    "north": "eternal_spells:blocks/spellshapingtable",
+    "east": "eternal_spells:blocks/spellshapingtable",
+    "south": "eternal_spells:blocks/spellshapingtable",
+    "west": "eternal_spells:blocks/spellshapingtable",
+    "particle": "eternal_spells:blocks/spellshapingtable"
+  }
+}

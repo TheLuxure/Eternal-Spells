@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "eternal_spells:spell_shaper_wand"
+    },
+    "title": {
+      "translate": "advancements.spell_shaping_hmmmm.title"
+    },
+    "description": {
+      "translate": "advancements.spell_shaping_hmmmm.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "spell_shaping_hmmmm": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "eternal_spells:spell_shaper_wand",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "eternal_spells:what_is_this_strange_power"
+}

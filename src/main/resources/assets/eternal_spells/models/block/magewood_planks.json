@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "eternal_spells:blocks/magewoodplanks",
+    "up": "eternal_spells:blocks/magewoodplanks",
+    "north": "eternal_spells:blocks/magewoodplanks",
+    "east": "eternal_spells:blocks/magewoodplanks",
+    "south": "eternal_spells:blocks/magewoodplanks",
+    "west": "eternal_spells:blocks/magewoodplanks",
+    "particle": "eternal_spells:blocks/magewoodplanks"
+  }
+}

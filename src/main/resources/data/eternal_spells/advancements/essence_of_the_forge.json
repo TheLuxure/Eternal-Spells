@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "eternal_spells:spell_shaper_essence"
+    },
+    "title": {
+      "translate": "advancements.essence_of_the_forge.title"
+    },
+    "description": {
+      "translate": "advancements.essence_of_the_forge.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "essence_of_the_forge": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "eternal_spells:spell_shaper_essence_4",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "eternal_spells:what_is_this_strange_power"
+}
